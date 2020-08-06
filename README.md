@@ -31,8 +31,8 @@
   - 💬 Pronouns: He/Him 
  ## My studies
   - [IES CASTELLET](http://inscastellet.cat/):
-   - Higher degree in cross-platform application development
-   - Medium degree in computer science
+    - 💻 Higher degree in cross-platform application development
+    - 💻 Medium degree in computer science 
  ## My courses
   - Platzi: [@b0_0sk](https://platzi.com/@arnau-bosch/) 
   - OpenWebinars: [@b0_0sk](https://openwebinars.net/@Gol6pq0v/) 
