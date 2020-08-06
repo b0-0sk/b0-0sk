@@ -24,5 +24,3 @@
   - 📤 My Instagram: [@b0_0sk](https://www.instagram.com/b0_0sk/) 
   - 🐦 My twitter: [@b0_0sk](https://twitter.com/b0_0sk) 
   - 💬 Pronouns: He/Him 
-  
- --- Learn more about me on [the About page of my blog]
