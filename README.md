@@ -29,3 +29,12 @@
   - 📤 My Instagram: [@b0_0sk](https://www.instagram.com/b0_0sk/) 
   - 🐦 My twitter: [@b0_0sk](https://twitter.com/b0_0sk) 
   - 💬 Pronouns: He/Him 
+ ## My studies
+  - IES CASTELLET
+   - Higher degree in cross-platform application development
+   - Medium degree in computer science
+ ## My courses
+  - Platzi: [@b0_0sk](https://platzi.com/@arnau-bosch/) 
+  - OpenWebinars: [@b0_0sk](https://openwebinars.net/@Gol6pq0v/) 
+
+
