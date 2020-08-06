@@ -2,8 +2,8 @@
 
 <!--
 **b0-0sk/b0-0sk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
- I am an Junior Java Developer. 
+-->
+I am an Junior Java Developer. 
  ## About my expertise 
  I create apps with differents development languages to improve my knowledge. This includes: 
   - With Java Raw: 
@@ -21,4 +21,3 @@
   - 🐦 My twitter: [@b0_0sk](https://twitter.com/b0_0sk) 
   - 💬 Pronouns: He/Him 
   --- Learn more about me on [the About page of my blog]
--->
