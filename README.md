@@ -30,7 +30,7 @@
   - 🐦 My twitter: [@b0_0sk](https://twitter.com/b0_0sk) 
   - 💬 Pronouns: He/Him 
  ## My studies
-  - IES CASTELLET
+  - [IES CASTELLET](http://inscastellet.cat/):
    - Higher degree in cross-platform application development
    - Medium degree in computer science
  ## My courses
