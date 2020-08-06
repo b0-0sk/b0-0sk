@@ -2,8 +2,8 @@
 <!--
 **b0-0sk/b0-0sk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### Hi there 👋
- I am an Java Junior Developer. 
+### Hi there ☕
+ I'm a Developer Lover and this is my little corner where I keep all my works, I hope you like them.
  
  ## About my expertise 
  
