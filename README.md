@@ -8,15 +8,20 @@
  ## About my expertise 
  
  I create apps with differents development languages to improve my knowledge. This includes: 
+ 
   - With Java Raw: 
     - 🤸‍Application to manage a gym. 
+    
   - With Spring Boot: 
     - 📋 Back-End Tickets Management with Spring Boot 
+    
   - With Angular: 
     - 👱‍Front-End Tickets Management with Angular 
+    
   - With Python: 
     - 🤖 Telegram Bot with some features… 
     - 📩 PycryptoDome program with SHA256 and RSA encryption. 
+    
   - ✨ And much more 🙂 
   
  ## Talking with me 
