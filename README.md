@@ -3,7 +3,7 @@
 **b0-0sk/b0-0sk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ### Hi there 👋
- I am an Junior Java Developer. 
+ I am an Java Junior Developer. 
  
  ## About my expertise 
  
