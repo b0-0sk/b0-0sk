@@ -13,10 +13,10 @@
     - 🤸‍Application to manage a gym. 
     
   - With Spring Boot: 
-    - 📋 Back-End Tickets Management with Spring Boot 
+    - 📋 Back-End Tickets Management
     
   - With Angular: 
-    - 👱‍Front-End Tickets Management with Angular 
+    - 👱‍Front-End Tickets Management
     
   - With Python: 
     - 🤖 Telegram Bot with some features… 
