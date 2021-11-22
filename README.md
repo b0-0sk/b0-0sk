@@ -28,7 +28,6 @@
  
   - 📤 My Instagram: [@b0_0sk](https://www.instagram.com/b0_0sk/) 
   - 🐦 My twitter: [@b0_0sk](https://twitter.com/b0_0sk) 
-  - 💬 Pronouns: He/Him 
  ## My studies
   - [IES CASTELLET](http://inscastellet.cat/):
     - 💻 Higher degree in cross-platform application development
