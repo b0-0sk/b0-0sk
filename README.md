@@ -19,7 +19,7 @@
     - 👱‍Front-End Tickets Management
     
   - With Python: 
-    - 🤖 Telegram Bot with some features… 
+    - 🤖 Telegram Bot 
     - 📩 PycryptoDome program with SHA256 and RSA encryption. 
     
   - ✨ And much more 🙂 
