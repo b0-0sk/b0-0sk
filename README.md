@@ -1,39 +1,51 @@
+# 👋 Hi, I'm Arnau Bosch — Welcome to my GitHub!
 
-<!--
-**b0-0sk/b0-0sk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-### Hi there ☕
- I'm a Developer Lover and this is my little corner where I keep all my works, I hope you like them.
- 
- ## About my expertise 
- 
- I create apps with differents development languages to improve my knowledge. This includes: 
- 
-  - With Java Raw: 
-    - 🤸‍Application to manage a gym. 
-    
-  - With Spring Boot: 
-    - 📋 Back-End Tickets Management
-    
-  - With Angular: 
-    - 👱‍Front-End Tickets Management
-    
-  - With Python: 
-    - 🤖 Telegram Bot 
-    - 📩 PycryptoDome program with SHA256 and RSA encryption. 
-    
-  - ✨ And much more 🙂 
-  
- ## Talking with me 
- 
-  - 📤 My Instagram: [@b0_0sk](https://www.instagram.com/b0_0sk/) 
-  - 🐦 My twitter: [@b0_0sk](https://twitter.com/b0_0sk) 
- ## My studies
-  - [IES CASTELLET](http://inscastellet.cat/):
-    - 💻 Higher degree in cross-platform application development
-    - 💻 Medium degree in computer science 
- ## My courses
-  - Platzi: [@b0_0sk](https://platzi.com/@arnau-bosch/) 
-  - OpenWebinars: [@b0_0sk](https://openwebinars.net/@Gol6pq0v/) 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arnau%20Bosch&fontSize=45&fontAlignY=35)
 
+I'm a **Software Engineer** based in **Catalonia, Spain**, passionate about building clean, efficient, and scalable systems. I enjoy solving complex problems, automating workflows, and turning ideas into robust applications.
 
+---
+
+## 🛠 Tech Stack
+
+### 🔧 Backend
+- **Java** (8–21), **Spring Boot**, **Kotlin**
+- **PostgreSQL**, **MongoDB**, **Redis**
+- **Hibernate / JPA**, REST APIs, JMX, Prometheus
+
+### ⚙️ DevOps & Infra
+- **Docker**, **Docker Compose**, **Ansible**
+- **Kubernetes**, **Helm**, **Grafana**, **Prometheus**
+- **CI/CD** with **Azure Pipelines** and GitHub Actions
+
+### 🖼 Frontend & UI
+- **React**, **Next.js**, **TypeScript**
+- **Three.js**, **Tailwind CSS**, **JSP (legacy systems)**
+
+---
+
+## 🚀 Current Projects
+
+- 🌐 Building multi-region microservices on Spring Boot with observability (JMX, Prometheus).
+- 🔍 Migrating legacy JSP & Struts applications to secure, JSTL-free implementations.
+- 🛡️ Enhancing dependency vulnerability detection with **OWASP Dependency-Check**.
+
+---
+
+## 🧠 What I Value
+
+- ✅ Clean code & meaningful naming
+- 🧪 Automated testing & monitoring
+- 📦 Reusability and modular design
+- 🔒 Secure-by-default configurations
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn – Arnau Bosch Gómez](https://www.linkedin.com/in/arnau-bosch-g%C3%B3mez-092709236/)
+- 🌍 [GitHub Profile](https://github.com/b0-0sk)
+
+---
+
+> "Code is not just for machines. It's for humans who read it too." – Arnau Bosch
