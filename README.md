@@ -1,5 +1,5 @@
 # <!-- Banner Animado con texto -->
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=5000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=1000&height=60&lines=Hi+there!+I'm+Arnau+Bosch+%F0%9F%91%8B;I'm+focused+on+→;Backend+Engineer+%7C+Infra+DevOps+%7C+Front+End)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=500&color=F7DF1E&center=true&vCenter=true&width=1000&height=60&lines=Hi+there!+I'm+Arnau+Bosch+%F0%9F%91%8B;I'm+focused+on+→;Backend+Engineer+%7C+Infra+DevOps+%7C+Front+End)
 
 ## 🛠 Tech Stack
 
