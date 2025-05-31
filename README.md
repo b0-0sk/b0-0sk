@@ -1,10 +1,5 @@
-# 👋 Hi, I'm Arnau Bosch — Welcome to my GitHub!
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arnau%20Bosch&fontSize=45&fontAlignY=35)
-
-I'm a **Software Engineer** based in **Catalonia, Spain**, passionate about building clean, efficient, and scalable systems. I enjoy solving complex problems, automating workflows, and turning ideas into robust applications.
-
----
+# <!-- Banner Animado con texto -->
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=5000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=1000&height=60&lines=Hi+there!+I'm+Arnau+Bosch+%F0%9F%91%8B;I'm+focused+on+→;Backend+Engineer+%7C+Infra+DevOps+%7C+Front+End)
 
 ## 🛠 Tech Stack
 
@@ -15,20 +10,13 @@ I'm a **Software Engineer** based in **Catalonia, Spain**, passionate about buil
 
 ### ⚙️ DevOps & Infra
 - **Docker**, **Docker Compose**, **Ansible**
-- **Kubernetes**, **Helm**, **Grafana**, **Prometheus**
+- **Kubernetes**, **Helm**, **Grafana**, **Prometheus**, **Pushgateway**
 - **CI/CD** with **Azure Pipelines** and GitHub Actions
 
 ### 🖼 Frontend & UI
-- **React**, **Next.js**, **TypeScript**
+- **Angular**, **React**, **Next.js**, **TypeScript**
 - **Three.js**, **Tailwind CSS**, **JSP (legacy systems)**
-
----
-
-## 🚀 Current Projects
-
-- 🌐 Building multi-region microservices on Spring Boot with observability (JMX, Prometheus).
-- 🔍 Migrating legacy JSP & Struts applications to secure, JSTL-free implementations.
-- 🛡️ Enhancing dependency vulnerability detection with **OWASP Dependency-Check**.
+- **Figma**
 
 ---
 
@@ -48,4 +36,4 @@ I'm a **Software Engineer** based in **Catalonia, Spain**, passionate about buil
 
 ---
 
-> "Code is not just for machines. It's for humans who read it too." – Arnau Bosch
+> "The unexamined life is not worth living." – Arnau Bosch
