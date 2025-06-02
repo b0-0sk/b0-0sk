@@ -36,4 +36,4 @@
 
 ---
 
-> "The unexamined life is not worth living." – Arnau Bosch
+> "The unexamined life is not worth living." – Sócrates
